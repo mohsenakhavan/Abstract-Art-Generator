@@ -39,4 +39,4 @@ To compile and run this project, you need:
 
    ```sh
    git clone https://github.com/mohsenakhavan/Abstract-Art-Generator.git
-   cd abstract-art-generator
+   cd abstract-art-generator && g++ main.cpp && a.exe```
